@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_list"]=self["webpackChunkmy_list"]||[]).push([[680],{3801:function(n,t,e){e.r(t),e.d(t,{default:function(){return l}});var c=e(6768);const o=(0,c.Lk)("h1",null,"Archived Items:",-1);function r(n,t,e,r,s,u){const i=(0,c.g2)("TodoList");return(0,c.uX)(),(0,c.CE)(c.FK,null,[o,(0,c.bF)(i,{location:"archive"})],64)}var s=e(3918),u={name:"ArchivePage",components:{TodoList:s.A}},i=e(1241);const a=(0,i.A)(u,[["render",r]]);var l=a}}]);
+//# sourceMappingURL=680.cd79c878.js.map

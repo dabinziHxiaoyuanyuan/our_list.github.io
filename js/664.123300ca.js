@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_list"]=self["webpackChunkmy_list"]||[]).push([[664],{2937:function(n,o,t){t.r(o),t.d(o,{default:function(){return a}});var e=t(6768);const s=(0,e.Lk)("h1",null,"To do List:",-1);function u(n,o,t,u,c,r){const i=(0,e.g2)("TodoList");return(0,e.uX)(),(0,e.CE)(e.FK,null,[s,(0,e.bF)(i,{location:"home"})],64)}var c=t(3918),r={name:"HomePage",components:{TodoList:c.A}},i=t(1241);const l=(0,i.A)(r,[["render",u]]);var a=l}}]);
+//# sourceMappingURL=664.123300ca.js.map
